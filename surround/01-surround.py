@@ -7,6 +7,7 @@ Please correct them.
 names = Guilherme, "Luciana", Pedro
 
 
-def surround_practice names :
+def surround_practicenames:
     for idx in range(len(names)):
         message = Hello, namesidx
+        printmessage
